@@ -46,7 +46,7 @@ $ yarn install
 # Run Aplication
 $ yarn start
 ```
-Go to expo in your smarthphone to see the result.
+Go run Expo in your smarthphone to see the result.
 
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by <a href="https://github.com/pallomagualter">Palloma Gualter</a>
